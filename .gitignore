@@ -1,7 +1,8 @@
 data/
 outputs/visualizations/
 outputs/results/
-models/saved_models/
+models/saved_models/*
+!models/saved_models/.gitkeep
 *.tif
 *.TIF
 *.h5
