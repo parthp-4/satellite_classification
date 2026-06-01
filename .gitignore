@@ -9,3 +9,4 @@ models/saved_models/
 *.zip
 .DS_Store
 **/.DS_Store
+.DS_Store
